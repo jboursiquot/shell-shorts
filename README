@@ -3,4 +3,5 @@ shell-shorts
 
 Useful shell scripts and shortcuts:
 
-- gitrid.sh: A series of commands to rid a git repo of a given file and its history. One example use case if the removal of sensitive information after it's been committed.
+* gitrid.sh: A series of commands to rid a git repo of a given file and its history. 
+One example use case if the removal of sensitive information after it's been committed.
